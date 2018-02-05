@@ -1,0 +1,30 @@
+{
+  "name": "vx-bitcoin-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vx/axis": "0.0.153",
+    "@vx/gradient": "0.0.153",
+    "@vx/grid": "0.0.153",
+    "@vx/group": "0.0.153",
+    "@vx/mock-data": "0.0.153",
+    "@vx/pattern": "0.0.153",
+    "@vx/responsive": "0.0.153",
+    "@vx/scale": "0.0.153",
+    "@vx/shape": "0.0.153",
+    "@vx/tooltip": "0.0.153",
+    "d3-array": "^1.2.1",
+    "d3-format": "^1.2.2",
+    "d3-time-format": "^2.1.1",
+    "isomorphic-fetch": "^2.2.1",
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
