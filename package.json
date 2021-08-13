@@ -27,7 +27,7 @@
     "d3-format": "^1.2.2",
     "d3-time-format": "^2.1.1",
     "isomorphic-fetch": "^2.2.1",
-    "next": "^9.3.2",
+    "next": "^11.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
